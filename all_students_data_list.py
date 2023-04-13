@@ -188,3 +188,6 @@ def search_data_in_option(query):
 # print(all_student_data)
 # all_student_data.append("Save")
 # print(all_student_data)
+
+
+        # all_student_data.append(str(f"{x1}.> {x2} Class: {x3}"))
